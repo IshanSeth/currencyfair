@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<transferRequests>
+  <singleTransferRequest>
+    <timestamp>June 29, 2017, 9:37 pm</timestamp>
+    <fname>dcasdc</fname>
+    <country_from>EUR</country_from>
+    <country_to>HUF</country_to>
+    <rate>310.06</rate>
+    <amt>2</amt>
+    <receivable>618.26</receivable>
+  </singleTransferRequest>
+  <singleTransferRequest>
+    <timestamp>June 29, 2017, 9:38 pm</timestamp>
+    <fname>dvsdfvsdf</fname>
+    <country_from>EUR</country_from>
+    <country_to>HUF</country_to>
+    <rate>310.06</rate>
+    <amt>2</amt>
+    <receivable>618.26</receivable>
+  </singleTransferRequest>
+  <singleTransferRequest>
+    <timestamp>June 29, 2017, 9:38 pm</timestamp>
+    <fname>dvsdfvsdf</fname>
+    <country_from>EUR</country_from>
+    <country_to>HUF</country_to>
+    <rate>310.06</rate>
+    <amt>2</amt>
+    <receivable>618.26</receivable>
+  </singleTransferRequest>
+  <singleTransferRequest>
+    <timestamp>June 29, 2017, 9:38 pm</timestamp>
+    <fname>dvsdfvsdf</fname>
+    <country_from>EUR</country_from>
+    <country_to>HUF</country_to>
+    <rate>310.06</rate>
+    <amt>2</amt>
+    <receivable>618.26</receivable>
+  </singleTransferRequest>
+  <singleTransferRequest>
+    <timestamp>June 29, 2017, 9:38 pm</timestamp>
+    <fname>dvsdfvsdf</fname>
+    <country_from>EUR</country_from>
+    <country_to>HUF</country_to>
+    <rate>310.06</rate>
+    <amt>2</amt>
+    <receivable>618.26</receivable>
+  </singleTransferRequest>
+  <singleTransferRequest>
+    <timestamp>June 29, 2017, 9:38 pm</timestamp>
+    <fname>dvsdfvsdf</fname>
+    <country_from>EUR</country_from>
+    <country_to>HUF</country_to>
+    <rate>310.06</rate>
+    <amt>2</amt>
+    <receivable>618.26</receivable>
+  </singleTransferRequest>
+  <singleTransferRequest>
+    <timestamp>June 29, 2017, 9:38 pm</timestamp>
+    <fname>dvsdfvsdf</fname>
+    <country_from>EUR</country_from>
+    <country_to>HUF</country_to>
+    <rate>310.06</rate>
+    <amt>2</amt>
+    <receivable>618.26</receivable>
+  </singleTransferRequest>
+  <singleTransferRequest>
+    <timestamp>June 29, 2017, 10:09 pm</timestamp>
+    <fname>dfgdsf</fname>
+    <country_from>EUR</country_from>
+    <country_to>GBP</country_to>
+    <rate>0.8799</rate>
+    <amt>1323</amt>
+    <receivable>1161.66015</receivable>
+  </singleTransferRequest>
+  <singleTransferRequest>
+    <timestamp>June 29, 2017, 10:09 pm</timestamp>
+    <fname>dfgdsf</fname>
+    <country_from>EUR</country_from>
+    <country_to>GBP</country_to>
+    <rate>0.8799</rate>
+    <amt>1323</amt>
+    <receivable>1161.66015</receivable>
+  </singleTransferRequest>
+  <singleTransferRequest>
+    <timestamp>June 29, 2017, 10:10 pm</timestamp>
+    <fname>dfgdsf</fname>
+    <country_from>GBP</country_from>
+    <country_to>NZD</country_to>
+    <rate>1.7787</rate>
+    <amt>1323</amt>
+    <receivable>2353.2201</receivable>
+  </singleTransferRequest>
+</transferRequests>
